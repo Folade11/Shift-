@@ -36,18 +36,18 @@ Welcome to my GitHub profile! I'm a passionate developer based in Odessa, Ukrain
 
 ## 🗂️ Projects
 
-Here are a few projects that I'm particularly proud of:
+Here are a few projects that I'm particularly proud of: None.
 
 ### [Project Name](https://github.com/Folade11/project-repo)
-Brief description of the project.
+Brief description of the project. None.
 
 ### [Another Project](https://github.com/Folade11/another-project-repo)
-Brief description of another project.
+Brief description of another project. None.
 
 ## 🌐 Connect with Me
 
 - Telegram: [@theshiftik](https://t.me/theshiftik)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:your.email@example.com) (Soon)
 
 I am not active on other social media platforms or YouTube.
 
